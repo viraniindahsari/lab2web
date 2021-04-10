@@ -20,6 +20,13 @@ nah ini hasil dari pengeditan pada css yang sudah terlihat perubahan antara warn
 
 selanjutnya kita bisa menambahkan file baru dengan nama style_eksternal agar bisa mengedit warna dicss
 
+![lab 2 hasil css2](https://user-images.githubusercontent.com/57024231/114255746-60757800-99df-11eb-994e-9ec1a228ac33.png)
+
+ini hasil dari perubahan yang sudah saya edit dengan menambahkan file baru 
+
+
+
+
 
 
 
