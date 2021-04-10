@@ -30,6 +30,13 @@ dan ini hasil akhir yang sudah sesuai dengan contoh dimodul pratikum 2 tadi
 
 jawaban 
 
+![lab 2 css2](https://user-images.githubusercontent.com/57024231/114257443-4c834380-99ea-11eb-8c29-47008f59c58e.png)
+
+ 1. ini hasil css yang sudah saya edit dengan membuat file baru
+
+
+
+
 
 
 
