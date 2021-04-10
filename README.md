@@ -16,6 +16,10 @@ selanjutnya menambahkan declarasi css internal seperti yang dimodul pratikum kit
 
 nah ini hasil dari pengeditan pada css yang sudah terlihat perubahan antara warna dan letak teks pada browsernya.
 
+![lab 2 css2](https://user-images.githubusercontent.com/57024231/114255735-518ec580-99df-11eb-8334-29b8e13e0039.png)
+
+selanjutnya kita bisa menambahkan file baru dengan nama style_eksternal agar bisa mengedit warna dicss
+
 
 
 
