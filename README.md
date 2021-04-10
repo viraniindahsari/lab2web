@@ -32,7 +32,13 @@ jawaban
 
 ![lab 2 css2](https://user-images.githubusercontent.com/57024231/114257443-4c834380-99ea-11eb-8c29-47008f59c58e.png)
 
- 1. ini hasil css yang sudah saya edit dengan membuat file baru
+1. ini hasil css yang sudah saya edit dengan membuat file baru
+
+2. h1{...} merupakan tag heading digunakan untuk membuat nama blog nama pada home page. sedangkan #intro h1 {...} berfungsi untuk menempatkan teks pada awal paragraf 
+
+3. internal yang akan tampil pada browser karena contohnya pada penambahan link yang dimasukan kedalam file mala setekag dienter pada browser maka akan tampil pada layar berupa link yang sudah dibuat tadi 
+
+4.<p class="teks-paragraf"> pada tampilan elemen declarasi class css yang tampil pada bagian layar browser dengan menapilkan kata teks paragraf tersebut 
 
 
 
