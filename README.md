@@ -24,6 +24,12 @@ selanjutnya kita bisa menambahkan file baru dengan nama style_eksternal agar bis
 
 ini hasil dari perubahan yang sudah saya edit dengan menambahkan file baru 
 
+![lab 2 hasil css3](https://user-images.githubusercontent.com/57024231/114257277-04175600-99e9-11eb-94fa-c9b3ec01f113.png)
+
+dan ini hasil akhir yang sudah sesuai dengan contoh dimodul pratikum 2 tadi 
+
+jawaban 
+
 
 
 
