@@ -8,4 +8,8 @@ pertama kita bisa membuka visual studio codenya terlebih dahulu selanjutnya memb
 
 dan ini hasil dari html sebelum masuk ke tahap cssnya
 
+![lab 2 css1](https://user-images.githubusercontent.com/57024231/114255159-db3d9380-99dd-11eb-9367-ba46aabaf197.png)
+
+selanjutnya kita mulai mengganti warna pada paragraf pertama dan mengganti posisi teks yang semula di depat diganti menjadi ditengah lalu ditambah kan garis tengah dibaha teks link
+
 
